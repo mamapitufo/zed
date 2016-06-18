@@ -1,0 +1,28 @@
+{
+  "name": "zed",
+  "version": "1.0.0",
+  "description": "get your session cookie",
+  "bin": {
+    "zed": "./lib/zed.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "credentials"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamapitufo/zed.git"
+  },
+  "author": "Alberto Brealey-Guzman <alberto.brealey@gmail.com> (http://github.com/mamapitufo)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/mamapitufo/zed/issues"
+  },
+  "homepage": "https://github.com/mamapitufo/zed#readme",
+  "dependencies": {
+    "zombie": "4.2.1"
+  }
+}
