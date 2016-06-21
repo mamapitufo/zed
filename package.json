@@ -1,6 +1,6 @@
 {
-  "name": "zed",
-  "version": "1.0.0",
+  "name": "zzed",
+  "version": "0.0.1",
   "description": "get your session cookie",
   "bin": {
     "zed": "./lib/zed.js"
